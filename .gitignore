@@ -13,9 +13,7 @@ build/
 *.egg-info/
 
 # Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
-!Models/capstone (1).ipynb  # Keep this specific notebook
+  # Keep this specific notebook
 
 # Model artifacts and data files
 *.h5
