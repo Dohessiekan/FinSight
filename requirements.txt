@@ -1,0 +1,38 @@
+# Core web and API dependencies
+fastapi
+uvicorn[standard]
+
+# Machine learning and deep learning
+numpy
+scikit-learn
+pandas
+
+# NLP and text processing
+nltk
+emoji
+gensim
+wordcloud
+
+# Deep learning frameworks
+# TensorFlow 2.19.0 and its dependencies
+tensorflow==2.19.0
+keras>=3.5.0
+protobuf>=3.20.3,<6.0.0dev
+tensorboard~=2.19.0
+
+# Model serving and serialization
+pydantic
+joblib
+pickle-mixin
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional: For time series feature extraction (if used in your notebook)
+tsfresh==0.20.1
+
+# Optional: For CatBoost and LightGBM models
+catboost
+lightgbm
+xgboost
