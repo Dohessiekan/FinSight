@@ -120,4 +120,6 @@ If any files are missing, the API will fail to start with a FileNotFoundError.
 - Consider implementing model versioning for production deployments
 
 ---
+
+Video and screenShort of the APP mockup with figma: https://drive.google.com/drive/folders/1hGOaR-DXEAiKwnB1y3KCNAWcV4kbtCww?usp=sharing
 *Last updated: June 9, 2025*
